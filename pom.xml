@@ -10,11 +10,7 @@
 
   <groupId>org.springframework.samples</groupId>
   <artifactId>spring-petclinic</artifactId>
-<<<<<<< HEAD
-  <version>4.0.3</version>
-=======
   <version>4.0.4</version>
->>>>>>> 748479e (Rel 4.0.4)
 
   <name>petclinic</name>
 
